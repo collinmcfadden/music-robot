@@ -1,0 +1,6 @@
+# Python compiled bytecode
+__pycache__/
+
+
+# IDE folder
+.vscode/
